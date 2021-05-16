@@ -44,6 +44,18 @@ export const projectsData = [
     url: 'https://smart-brain-peno.herokuapp.com/',
     repo: 'https://github.com/petr-novak-github/facerecognitionapp', // if no repo, the button will not show up
   },
+  {
+    id: nanoid(),
+    img: 'zverimex.jpg',
+    title: 'Company presentation website',
+    info: 'This web was done as project when I studied web dev at Technical University of Ostrava in 2021. It was done according task description, for practise stuff what we learned there. So sometimes it has no sense :).',
+    info2: 'Technologies used here: Bootstrap, Sass compliler, CSS, HTML ..',
+    url: 'http://petr-novak.wz.cz/firma/',
+    repo: 'https://github.com/petr-novak-github/firma', // if no repo, the button will not show up
+  },
+
+
+
   //{
    // id: nanoid(),
     //img: 'project.jpg',
