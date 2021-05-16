@@ -26,24 +26,24 @@ export const aboutData = {
 
 // PROJECTS DATA
 export const projectsData = [
-  {
-    id: nanoid(),
-    img: 'robofriends_view_pic_bw.jpg',
-    title: 'Robofriends',
-    info: 'Its my first React.js project which was done by using tutorial. Its kind of visual database of my friends. Every friend has its own card. Its possible to search specific friend.',
-    info2: '',
-    url: 'https://petr-novak-github.github.io/robofriends/',
-    repo: 'https://github.com/petr-novak-github/robofriends', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'facerecognitionapp_bw.jpg',
-    title: 'Face Recognition App',
-    info: 'Its my second project done by using tutorial, its based on React too. It cooperates with external API which finds the face on the picture. It also use SQL database for Sign In users. Passwords in DB are encrypted. There are Front End part, Back End part and Database part.',
-    info2: 'Copy the link with the picture, and App will recognize where the face is, and mark it by blue rectangle.',
-    url: 'https://smart-brain-peno.herokuapp.com/',
-    repo: 'https://github.com/petr-novak-github/facerecognitionapp', // if no repo, the button will not show up
-  },
+  // {
+  //   id: nanoid(),
+  //   img: 'robofriends_view_pic_bw.jpg',
+  //   title: 'Robofriends',
+  //   info: 'Its my first React.js project which was done by using tutorial. Its kind of visual database of my friends. Every friend has its own card. Its possible to search specific friend.',
+  //   info2: '',
+  //   url: 'https://petr-novak-github.github.io/robofriends/',
+  //   repo: 'https://github.com/petr-novak-github/robofriends', // if no repo, the button will not show up
+  // },
+  // {
+  //   id: nanoid(),
+  //   img: 'facerecognitionapp_bw.jpg',
+  //   title: 'Face Recognition App',
+  //   info: 'Its my second project done by using tutorial, its based on React too. It cooperates with external API which finds the face on the picture. It also use SQL database for Sign In users. Passwords in DB are encrypted. There are Front End part, Back End part and Database part.',
+  //   info2: 'Copy the link with the picture, and App will recognize where the face is, and mark it by blue rectangle.',
+  //   url: 'https://smart-brain-peno.herokuapp.com/',
+  //   repo: 'https://github.com/petr-novak-github/facerecognitionapp', // if no repo, the button will not show up
+  // },
   {
     id: nanoid(),
     img: 'zverimex.jpg',
