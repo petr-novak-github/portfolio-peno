@@ -48,10 +48,20 @@ export const projectsData = [
     id: nanoid(),
     img: 'zverimex.jpg',
     title: 'Company presentation website',
-    info: 'This web was done as project when I studied web dev at Technical University of Ostrava in 2021. It was done according task description, for practisize stuff what we learned there. So sometimes it has no sense :).',
+    info: 'This web was done as project when I studied web dev at Technical University of Ostrava in 2021. It was done according task description, for practisize stuff what we learned there.',
     info2: 'Technologies used here: Bootstrap, Sass compliler, CSS, HTML ..',
     url: 'http://petr-novak.wz.cz/firma/',
     repo: 'https://github.com/petr-novak-github/firma', // if no repo, the button will not show up
+  },
+
+  {
+    id: nanoid(),
+    img: 'robofriendsv2cb.jpg',
+    title: 'Robofriends',
+    info: 'My First React webb app. Collections of your Robotic Friends. You can search your specific Robofriend in this app and find his contact information. Its updated live. Its fast. Its responsive. Its using external API for pictures.',
+    info2: 'Technologies used here: React.js, Tachyons ..',
+    url: 'https://petr-novak-github.github.io/robofriendsv2/',
+    repo: 'https://github.com/petr-novak-github/robofriendsv2', // if no repo, the button will not show up
   },
 
 
